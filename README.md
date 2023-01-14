@@ -127,7 +127,7 @@ $ streamlit run app.py
 
 ## :clap: And it's done!
 Feel free to mail me for any doubts/query 
-:email: chandrikadeb7@gmail.com
+:email: suryachoudhuri03@gmail.com
 
 ---
 
