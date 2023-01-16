@@ -174,4 +174,4 @@ You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 Made by [Surya Choudhuri](https://github.com/Suryachoudhuri003)
 
 ## :eyes: License
-MIT © [Surya Choudhuri](https://github.com/Suryachoudhuri003/Face_Mask-Detection_using-ML/blob/master/LICENSE.md)
+GNU © [Surya Choudhuri](https://github.com/Suryachoudhuri003/Face_Mask-Detection_using-ML/blob/master/LICENSE.md)
