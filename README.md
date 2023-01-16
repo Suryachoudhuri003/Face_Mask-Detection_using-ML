@@ -171,4 +171,4 @@ Feel free to mail me for any doubts/query
 You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 
 ## :heart: Owner
-Made with by [Surya Choudhuri](https://github.com/Suryachoudhuri003)
+Made by [Surya Choudhuri](https://github.com/Suryachoudhuri003)
