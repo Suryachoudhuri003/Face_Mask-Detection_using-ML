@@ -63,7 +63,7 @@ $ git clone https://github.com/Suryachoudhuri003/Face_Mask-Detection_using-ML.gi
 
 2. Change your directory to the cloned repo 
 ```
-$ cd Face-Mask-Detection
+$ cd Face_Mask-Detection_using-ML-master
 ```
 
 3. Create a Python virtual environment named 'test' and activate it
