@@ -20,7 +20,7 @@ Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection a
 If interested, contact me at suryachoudhuri03@gmail.com
  
 ## :hourglass: Project Demo
-:movie_camera: [YouTube Demo Link](https://youtu.be/wYwW7gAYyxw)
+:movie_camera: [G-Drive Demo Link](https://drive.google.com/drive/folders/17WTS93gG6a_RW850AHu5OWRGZl7Q6AVO?usp=share_link)
 
 <p align="center"><img src="https://github.com/Suryachoudhuri003/Face_Mask-Detection_using-ML/blob/master/Readme_images/Output.png" width="1311" height="976"></p>
 
