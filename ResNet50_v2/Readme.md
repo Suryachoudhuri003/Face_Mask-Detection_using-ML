@@ -29,6 +29,3 @@ python3 detect_mask_image.py --image images/pic1.jpeg --model ResNet50_v2/ResNet
 ![alt text](Readme_images/output.png)
 
 
-## :star:&nbsp; Output Video
-![alt text](Readme_images/Output.gif)
-
